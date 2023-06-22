@@ -1,0 +1,19 @@
+ div{
+  background-color: blue;
+ }
+
+ body{
+  background-color:rgb(148, 174, 174)
+ }
+
+      .button{
+  background-color: green;
+  color:white;
+  padding: 20px;
+  text-align: center;
+  font-size:30px;
+  border:none;
+  margin: 20px;
+  border-radius:10px;
+  cursor: pointer;
+}
